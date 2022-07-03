@@ -1,0 +1,126 @@
+{
+    "parathas": [
+        {
+            "id": 1,
+            "title": "Plain paratha + Yogurt",
+            "img": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Aloo-Paratha-2-3.jpg",
+            "price": 40,
+            "extras": [{
+                "id": "ex1",
+                "name": "Extra Sauce",
+                "price": 5
+            }]
+        },
+        {
+            "id": 2,
+            "title": "Aalo Paratha",
+            "img": "https://greenbowl2soul.com/wp-content/uploads/2020/04/aloo-paratha-recipe_3.jpg",
+            "price": 50,
+            "extras": [{
+                "id": "ex1",
+                "name": "Extra Sauce",
+                "price": 5
+            },{
+                "id": "ex2",
+                "name": "Yogurt",
+                "price": 15
+            },{
+                "id": "ex3",
+                "name": "Cheese",
+                "price": 20
+            }]
+        },
+        {
+            "id": 3,
+            "title": "Veg Paratha",
+            "img": "https://www.cookwithkushi.com/wp-content/uploads/2021/03/IMG_7976_.jpg",
+            "price": 50,
+            "extras": [{
+                "id": "ex1",
+                "name": "Corn",
+                "price": 10
+            },{
+                "id": "ex2",
+                "name": "Cabbage",
+                "price": 15
+            },{
+                "id": "ex3",
+                "name": "Fenugreek",
+                "price": 10
+            },{
+                "id": "ex4",
+                "name": "Cheese",
+                "price": 20
+            }]
+        },
+        {
+            "id": 4,
+            "title": "Double Cheese Paratha",
+            "img": "https://mytastycurry.com/wp-content/uploads/2019/04/Alu-paratha.jpg",
+            "price": 70,
+            "extras": [{
+                "id": "ex1",
+                "name": "Extra Sauce",
+                "price": 5
+            },{
+                "id": "ex2",
+                "name": "Yogurt",
+                "price": 15
+            },{
+                "id": "ex3",
+                "name": "Corn",
+                "price": 10
+            }]
+        },
+        {
+            "id": 5,
+            "title": "Corn Cheese Paratha",
+            "img": "https://i0.wp.com/binjalsvegkitchen.com/wp-content/uploads/2018/05/Aloo-Paratha-H2.jpg?resize=600%2C900&ssl=1",
+            "price": 80,
+            "extras": [{
+                "id": "ex1",
+                "name": "Extra Sauce",
+                "price": 5
+            },{
+                "id": "ex2",
+                "name": "Yogurt",
+                "price": 15
+            },{
+                "id": "ex3",
+                "name": "Extra Cheese",
+                "price": 20
+            }]
+        },
+        {
+            "id": 6,
+            "title": "Anshuman Special Paratha",
+            "img": "https://www.recipetineats.com/wp-content/uploads/2014/11/Aloo-Paratha-3.jpg",
+            "price": 120,
+            "extras": [{
+                "id": "ex1",
+                "name": "Extra Sauce",
+                "price": 5
+            },{
+                "id": "ex2",
+                "name": "Yogurt",
+                "price": 15
+            },{
+                "id": "ex3",
+                "name": "Corn",
+                "price": 10
+            },{
+                "id": "ex4",
+                "name": "Cabbage",
+                "price": 15
+            },{
+                "id": "ex5",
+                "name": "Fenugreek",
+                "price": 10
+            },{
+                "id": "ex6",
+                "name": "Extra Cheese",
+                "price": 20
+            }]
+        }
+    ]
+}
